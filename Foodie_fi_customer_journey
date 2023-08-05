@@ -1,0 +1,12 @@
+                                                        A. Customer Journey
+Based off the 8 sample customers provided in the sample from the subscriptions table, write a brief description about each customer’s onboarding journey.
+
+Answers:
+Customer 1: joined foodie_fi on 2020-08-01 for the free trial and subscribed for the basic plan after the 7 days free trial period
+Customer 2: joined foodie_fi on 2020-09-20 for the free trial and subscribed for the pro annual plan after the 7 days trial period
+Customer 11: joined foodie_fi on 2020-11-19 for the free trial and canceled the plan after the 7 days trial period
+Customer 13: joined foodie_fi on 2020-12-15 for the free trial and subscribed for the basic plan after the 7 days trial and then upgraded to the pro plan after 7 days
+Customer 15: joined foodie_fi on 2020-03-17 for the free trial and was automatically upgraded to the pro plan after the 7 days free trial period, he then cancelled the plan on 2020-04-29
+Customer 16: joined foodie_fi on 2020-05-31 for the free trial and subcribed for the basic plan after the 7 days free period and upgraded to pro annual plan on 2020-10-21
+Customer 18: joined foodie_fi on 2020-07-06 for the free trial and was automatically upgraded to the pro monthly plan after the 7 days trial
+Customer 19: joined foodie_fi on 2020-06-22 for the free trail and was automatically upgraded to the pro monthly plan after the 7 days free trial and on 2020-08-29 upgraded to the pro annual plan.
